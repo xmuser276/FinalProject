@@ -1,0 +1,108 @@
+[
+            {
+                "id": 197,
+                "name": "辛纳",
+                "avatar": "http:\/\/qiniu.6tennis.com\/images\/player\/avatar\/79e2a1738225c8abf564203e12afe221.jpeg",
+                "ranking": 1,
+                "score": 11420,
+                "country": "意大利"
+            },
+            {
+                "id": 189,
+                "name": "德约科维奇",
+                "ranking": 2,
+                "score": 8360,
+                "country": "塞尔维亚"
+            },
+            {
+                "id": 224,
+                "name": "阿尔卡拉斯",
+                "ranking": 2,
+                "score": 7120,
+                "country": "西班牙"
+            },
+            {
+                "id": 77,
+                "name": "兹维列夫",
+                "ranking": 3,
+                "score": 6805,
+                "country": "德国"
+            },
+            {
+                "id": 128,
+                "name": "梅德韦杰夫",
+                "ranking": 5,
+                "score": 5230,
+                "country": "俄罗斯"
+            },
+            {
+                "id": 234,
+                "name": "弗里茨",
+                "ranking": 6,
+                "score": 4335,
+                "country": "美国"
+            },
+            {
+                "id": 173,
+                "name": "卢布列夫",
+                "ranking": 7,
+                "score": 4070,
+                "country": "俄罗斯"
+            },
+            {
+                "id": 179,
+                "name": "鲁德",
+                "ranking": 8,
+                "score": 3855,
+                "country": "西班牙"
+            },
+            {
+                "id": 175,
+                "name": "迪米特洛夫",
+                "ranking": 9,
+                "score": 3740,
+                "country": "保加利亚"
+            },
+            {
+                "id": 145,
+                "name": "德米纳尔",
+                "ranking": 10,
+                "score": 3725,
+                "country": "澳大利亚"
+            },
+            {
+                "id": 126,
+                "name": "西西帕斯",
+                "ranking": 11,
+                "score": 3325,
+                "country": "希腊"
+            },
+            {
+                "id": 256,
+                "name": "保罗",
+                "ranking": 12,
+                "score": 3180,
+                "country": "美国"
+            },
+            {
+                "id": 221,
+                "name": "鲁内",
+                "ranking": 13,
+                "score": 3005,
+                "country": "丹麦"
+            },
+            {
+                "id": 196,
+                "name": "胡尔卡奇",
+                "ranking": 14,
+                "score": 2810,
+                "country": "波兰"
+            },
+            {
+                "id": 213,
+                "name": "德雷珀",
+                "ranking": 15,
+                "score": 2800,
+                "country": "英国"
+            }
+        ]
